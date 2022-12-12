@@ -30,7 +30,7 @@ AddReg=ovpn-dco_AddReg
 
 Characteristics     = 1  ; NCF_VIRTUAL
 
-*IfType             = 53 ; IF_TYPE_PROP_VIRTUAL
+*IfType             = 131 ; IF_TYPE_TUNNEL
 *MediaType          = 19 ; NdisMediumIP
 *PhysicalMediaType  = 0 ; NdisPhysicalMediumUnspecified
 
